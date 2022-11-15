@@ -1,0 +1,1001 @@
+gender,group,parental level of education,lunch,english certification,math score,basic informatics score,programming techniques score,code,name
+female,group B,bachelor's degree,standard,none,72,72,74,1,gimpy zucchini caterpillar
+female,group C,some college,standard,completed,69,90,88,2,homely pear owl
+female,group B,master's degree,standard,none,90,95,93,3,woolly scarlet retriever
+male,group A,associate's degree,free/reduced,none,47,57,44,4,stealthy silver mastiff
+male,group C,some college,standard,none,76,78,75,5,surly aqua zorse
+female,group B,associate's degree,standard,none,71,83,78,6,zippy myrtle rhinoceros
+female,group B,some college,standard,completed,88,95,92,7,snappy brass abyssinian
+male,group B,some college,free/reduced,none,40,43,39,8,beady goldenrod chinook
+male,group D,high school,free/reduced,completed,64,64,67,9,cloudy apricot grouse
+female,group B,high school,free/reduced,none,38,60,50,10,sunny peach mayfly
+male,group C,associate's degree,standard,none,58,54,52,11,trippy cerulean harrier
+male,group D,associate's degree,standard,none,40,52,43,12,nerdy denim turtle
+female,group B,high school,standard,none,65,81,73,13,shaky turquoise caracal
+male,group A,some college,standard,completed,78,72,70,14,chewy asparagus dachsbracke
+female,group A,master's degree,standard,none,50,53,58,15,sleazy silver okapi
+female,group C,some high school,standard,none,69,75,78,16,cozy magnolia turtle
+male,group C,high school,standard,none,88,89,86,17,seedy red chipmunk
+female,group B,some high school,free/reduced,none,18,32,28,18,wimpy amaranth uakari
+male,group C,master's degree,free/reduced,completed,46,42,46,19,scanty emerald fousek
+female,group C,associate's degree,free/reduced,none,54,58,61,20,wheezy lilac bee
+male,group D,high school,standard,none,66,69,63,21,wheezy purple macaw
+female,group B,some college,free/reduced,completed,65,75,70,22,gamy gamboge barracuda
+male,group D,some college,standard,none,44,54,53,23,geeky chocolate dolphin
+female,group C,some high school,standard,none,69,73,73,24,freaky buff lionfish
+male,group D,bachelor's degree,free/reduced,completed,74,71,80,25,thirsty ochre frigatebird
+male,group A,master's degree,free/reduced,none,73,74,72,26,stealthy khaki discus
+male,group B,some college,standard,none,69,54,55,27,greasy apricot chimpanzee
+female,group C,bachelor's degree,standard,none,67,69,75,28,sloppy vermilion mastiff
+male,group C,high school,standard,none,70,70,65,29,breezy violet akbash
+female,group D,master's degree,standard,none,62,70,75,30,gamy amaranth caracal
+female,group D,some college,standard,none,69,74,74,31,cranky champagne ostrich
+female,group B,some college,standard,none,63,65,61,32,tacky black quoll
+female,group E,master's degree,free/reduced,none,56,72,65,33,baggy gold vole
+male,group D,some college,standard,none,40,42,38,34,tasty magenta squirrel
+male,group E,some college,standard,none,97,87,82,35,queasy pear raccoon
+male,group E,associate's degree,standard,completed,81,81,79,36,crabby ivory goose
+female,group D,associate's degree,standard,none,74,81,83,37,lousy pear tiger
+female,group D,some high school,free/reduced,none,50,64,59,38,cranky chartreuse deer
+female,group D,associate's degree,free/reduced,completed,75,90,88,39,ugly sangria dolphin
+male,group B,associate's degree,free/reduced,none,57,56,57,40,snippy yellow frigatebird
+male,group C,associate's degree,free/reduced,none,55,61,54,41,thirsty cyan fish
+female,group C,associate's degree,standard,none,58,73,68,42,goopy bronze manatee
+female,group B,associate's degree,standard,none,53,58,65,43,ready grey greyhound
+male,group B,some college,free/reduced,completed,59,65,66,44,baggy red kakapo
+female,group E,associate's degree,free/reduced,none,50,56,54,45,scaly orange wolverine
+male,group B,associate's degree,standard,none,65,54,57,46,pretty taupe dragon
+female,group A,associate's degree,standard,completed,55,65,62,47,slaphappy red bullfrog
+female,group C,high school,standard,none,66,71,76,48,pretty celadon chin
+female,group D,associate's degree,free/reduced,completed,57,74,76,49,chewy sepia bonobo
+male,group C,high school,standard,completed,82,84,82,50,shabby bronze caterpillar
+male,group E,some college,standard,none,53,55,48,51,wiggy mauve albatross
+male,group E,associate's degree,free/reduced,completed,77,69,68,52,chewy auburn orangutan
+male,group C,some college,standard,none,53,44,42,53,cloudy chestnut clam
+male,group D,high school,standard,none,88,78,75,54,beady amaranth owl
+female,group C,some high school,free/reduced,completed,71,84,87,55,fuzzy carmine dollar
+female,group C,high school,free/reduced,none,33,41,43,56,frumpy seashell cassowary
+female,group E,associate's degree,standard,completed,82,85,86,57,shaky cobalt badger
+male,group D,associate's degree,standard,none,52,55,49,58,craggy magnolia affenpinscher
+male,group D,some college,standard,completed,58,59,58,59,trippy cornflower chinook
+female,group C,some high school,free/reduced,none,0,17,10,60,flaky peach baboon
+male,group E,bachelor's degree,free/reduced,completed,79,74,72,61,leaky magnolia squid
+male,group A,some high school,free/reduced,none,39,39,34,62,scaly cornflower fousek
+male,group A,associate's degree,free/reduced,none,62,61,55,63,shaggy eggplant setter
+female,group C,associate's degree,standard,none,69,80,71,64,cloudy green malamute
+female,group D,some high school,standard,none,59,58,59,65,leaky scarlet mammoth
+male,group B,some high school,standard,none,67,64,61,66,sloppy platinum spoonbill
+male,group D,some high school,free/reduced,none,45,37,37,67,droopy coral oyster
+female,group C,some college,standard,none,60,72,74,68,muzzy lime owl
+male,group B,associate's degree,free/reduced,none,61,58,56,69,zippy goldenrod avocet
+female,group C,associate's degree,standard,none,39,64,57,70,wiggy seashell cichlid
+female,group D,some college,free/reduced,completed,58,63,73,71,woozy mustard chipmunk
+male,group D,some college,standard,completed,63,55,63,72,snippy chestnut fousek
+female,group A,associate's degree,free/reduced,none,41,51,48,73,tasty olive coral
+male,group C,some high school,free/reduced,none,61,57,56,74,surly cornflower hamster
+male,group C,some high school,standard,none,49,49,41,75,leaky aqua octopus
+male,group B,associate's degree,free/reduced,none,44,41,38,76,squeaky beige olm
+male,group E,some high school,standard,none,30,26,22,77,goopy indigo deer
+male,group A,bachelor's degree,standard,completed,80,78,81,78,ugly ecru crocodile
+female,group D,some high school,standard,completed,61,74,72,79,shabby ruby ant
+female,group E,master's degree,standard,none,62,68,68,80,blurry champagne skunk
+female,group B,associate's degree,standard,none,47,49,50,81,seedy rose dhole
+male,group B,high school,free/reduced,none,49,45,45,82,scummy cinnabar lynx
+male,group A,some college,free/reduced,completed,50,47,54,83,snappy thistle raccoon
+male,group E,associate's degree,standard,none,72,64,63,84,gloppy wheat gerbil
+male,group D,high school,free/reduced,none,42,39,34,85,flabby burgundy serval
+female,group C,some college,standard,none,73,80,82,86,skanky red centipede
+female,group C,some college,free/reduced,none,76,83,88,87,skimpy yellow opossum
+female,group D,associate's degree,standard,none,71,71,74,88,paltry taupe pinscher
+female,group A,some college,standard,none,58,70,67,89,fuzzy saffron lionfish
+female,group D,some high school,standard,none,73,86,82,90,gimpy orange bonobo
+female,group C,bachelor's degree,standard,none,65,72,74,91,droopy pear robin
+male,group C,high school,free/reduced,none,27,34,36,92,flabby silver jackal
+male,group C,high school,standard,none,71,79,71,93,squirrely orange impala
+male,group C,associate's degree,free/reduced,completed,43,45,50,94,flaky harlequin moorhen
+female,group B,some college,standard,none,79,86,92,95,tacky alizarin akbash
+male,group C,associate's degree,free/reduced,completed,78,81,82,96,shabby chocolate walrus
+male,group B,some high school,standard,completed,65,66,62,97,scanty purple cougar
+female,group E,some college,standard,completed,63,72,70,98,lanky chartreuse hippopotamus
+female,group D,some college,free/reduced,none,58,67,62,99,cloudy tomato bombay
+female,group D,bachelor's degree,standard,none,65,67,62,100,woolly cerulean stingray
+male,group B,some college,standard,none,79,67,67,101,snappy bistre weasel
+male,group D,bachelor's degree,standard,completed,68,74,74,102,skinny rust bloodhound
+female,group D,associate's degree,standard,none,85,91,89,103,seedy sapphire woodpecker
+male,group B,high school,standard,completed,60,44,47,104,shaggy scarlet foxhound
+male,group C,some college,standard,completed,98,86,90,105,stinky aqua bonobo
+female,group C,some college,standard,none,58,67,72,106,gloppy viridian quoll
+female,group D,master's degree,standard,none,87,100,100,107,lousy asparagus peccary
+male,group E,associate's degree,standard,completed,66,63,64,108,breezy thistle eleuth
+female,group B,associate's degree,free/reduced,none,52,76,70,109,gloppy sepia frise
+female,group B,some high school,standard,none,70,64,72,110,scanty apricot blue
+female,group D,associate's degree,free/reduced,completed,77,89,98,111,trippy sangria hound
+male,group C,high school,standard,none,62,55,49,112,homey taupe cat
+male,group A,associate's degree,standard,none,54,53,47,113,silly tangerine scorpion
+female,group D,some college,standard,none,51,58,54,114,stinky magenta bat
+female,group E,bachelor's degree,standard,completed,99,100,100,115,gummy bistre gorilla
+male,group C,high school,standard,none,84,77,74,116,crappy silver serval
+female,group B,bachelor's degree,free/reduced,none,75,85,82,117,sloppy vermilion donkey
+female,group D,bachelor's degree,standard,none,78,82,79,118,pokey chestnut russel
+female,group D,some high school,standard,none,51,63,61,119,nippy lilac elephant
+female,group C,some college,standard,none,55,69,65,120,boozy razzmatazz burmese
+female,group C,bachelor's degree,standard,completed,79,92,89,121,squirrely taupe booby
+male,group B,associate's degree,standard,completed,91,89,92,122,tasty platinum chipmunk
+female,group C,some college,standard,completed,88,93,93,123,cozy cornflower crane
+male,group D,high school,free/reduced,none,63,57,56,124,flaky russet echidna
+male,group E,some college,standard,none,83,80,73,125,chummy turquoise bombay
+female,group B,high school,standard,none,87,95,86,126,beady seashell ocelot
+male,group B,some high school,standard,none,72,68,67,127,geeky orange skunk
+male,group D,some college,standard,completed,65,77,74,128,gamy red bracke
+male,group D,master's degree,standard,none,82,82,74,129,pretty mustard stingray
+female,group A,bachelor's degree,standard,none,51,49,51,130,foggy rose heron
+male,group D,master's degree,standard,none,89,84,82,131,snappy puce tortoise
+male,group C,some high school,free/reduced,completed,53,37,40,132,jumpy periwinkle skunk
+male,group E,some college,free/reduced,completed,87,74,70,133,foggy scarlet lobster
+female,group C,some college,standard,completed,75,81,84,134,slaphappy orange greyhound
+male,group D,bachelor's degree,free/reduced,completed,74,79,75,135,thirsty violet kiwi
+male,group C,bachelor's degree,standard,none,58,55,48,136,lovely celadon newfoundland
+male,group B,some high school,standard,completed,51,54,41,137,zippy cerulean abyssinian
+male,group E,high school,standard,none,70,55,56,138,gummy coral catfish
+female,group C,associate's degree,standard,none,59,66,67,139,trippy copper deer
+male,group D,some college,standard,completed,71,61,69,140,trippy bronze sparrow
+female,group D,some high school,standard,none,76,72,71,141,slimy dandelion dragonfly
+female,group C,some college,free/reduced,none,59,62,64,142,cranky black dormouse
+female,group E,some college,free/reduced,completed,42,55,54,143,crabby periwinkle havanese
+male,group A,high school,standard,none,57,43,47,144,sleepy azure macaw
+male,group D,some college,standard,none,88,73,78,145,beady silver penguin
+female,group C,some college,free/reduced,none,22,39,33,146,wheezy teal fowl
+male,group B,some high school,standard,none,88,84,75,147,trippy mustard vole
+male,group C,associate's degree,free/reduced,none,73,68,66,148,flimsy maroon birman
+female,group D,bachelor's degree,standard,completed,68,75,81,149,boozy khaki rattlesnake
+male,group E,associate's degree,free/reduced,completed,100,100,93,150,squirrely ruby dingo
+male,group A,some high school,standard,completed,62,67,69,151,cranky aqua eel
+male,group A,bachelor's degree,standard,none,77,67,68,152,thirsty aquamarine retriever
+female,group B,associate's degree,standard,completed,59,70,66,153,homely black labradoodle
+male,group D,bachelor's degree,standard,none,54,49,47,154,slaphappy wisteria snake
+male,group D,some high school,standard,none,62,67,61,155,flaky grey fossa
+female,group C,some college,standard,completed,70,89,88,156,droopy gamboge wolf
+female,group E,high school,free/reduced,completed,66,74,78,157,flimsy pink dachshund
+male,group B,some college,free/reduced,none,60,60,60,158,freaky thistle weasel
+female,group B,associate's degree,standard,completed,61,86,87,159,sleepy salmon bulldog
+male,group D,associate's degree,free/reduced,none,66,62,64,160,woolly lemon wombat
+male,group B,associate's degree,free/reduced,completed,82,78,74,161,scummy olivine corgi
+female,group E,some college,free/reduced,completed,75,88,85,162,muggy lilac deer
+male,group B,master's degree,free/reduced,none,49,53,52,163,sunny peach setter
+male,group C,high school,standard,none,52,53,49,164,gummy ultramarine frog
+female,group E,master's degree,standard,none,81,92,91,165,flabby auburn bombay
+female,group C,bachelor's degree,standard,completed,96,100,100,166,homely yellow sloth
+male,group C,high school,free/reduced,completed,53,51,51,167,fuzzy lime fish
+female,group B,master's degree,free/reduced,completed,58,76,78,168,wimpy crimson wrasse
+female,group B,high school,standard,completed,68,83,78,169,squeaky teal woodlouse
+female,group C,some college,free/reduced,completed,67,75,70,170,stuffy saffron cuscus
+male,group A,high school,standard,completed,72,73,74,171,fuzzy jade hare
+male,group E,some high school,standard,none,94,88,78,172,pokey aqua whippet
+female,group D,some college,standard,none,79,86,81,173,scaly russet flamingo
+female,group C,associate's degree,standard,none,63,67,70,174,thirsty copper gharial
+female,group C,bachelor's degree,free/reduced,completed,43,51,54,175,blurry scarlet dodo
+female,group C,master's degree,standard,completed,81,91,87,176,squirrely mustard chamois
+female,group B,high school,free/reduced,completed,46,54,58,177,lovely persimmon uguisu
+female,group C,associate's degree,standard,completed,71,77,77,178,gloppy emerald jaguar
+female,group B,master's degree,free/reduced,completed,52,70,62,179,squeaky apricot insect
+female,group D,some high school,standard,completed,97,100,100,180,cranky ruby wallaby
+male,group C,master's degree,free/reduced,completed,62,68,75,181,flimsy champagne tang
+female,group C,some college,free/reduced,none,46,64,66,182,gamy blue chamois
+female,group E,high school,standard,none,50,50,47,183,lanky turquoise goat
+female,group D,associate's degree,standard,none,65,69,70,184,tacky blue nightingale
+male,group C,some high school,free/reduced,completed,45,52,49,185,droopy lemon whale
+male,group C,associate's degree,free/reduced,completed,65,67,65,186,hasty zucchini cattle
+male,group E,high school,standard,none,80,76,65,187,clammy cinnamon hare
+male,group D,some high school,standard,completed,62,66,68,188,pasty asparagus slug
+male,group B,some high school,free/reduced,none,48,52,45,189,stinky asparagus shark
+female,group C,bachelor's degree,standard,none,77,88,87,190,pokey salmon owl
+female,group E,associate's degree,standard,none,66,65,69,191,breezy lavender opossum
+male,group D,some college,standard,completed,76,83,79,192,smelly chestnut javanese
+female,group B,some high school,standard,none,62,64,66,193,homey cyan corgi
+male,group D,some college,standard,completed,77,62,62,194,stuffy champagne fly
+female,group C,master's degree,standard,completed,69,84,85,195,hazy periwinkle toucan
+male,group D,associate's degree,standard,none,61,55,52,196,flaky red saola
+male,group C,some high school,free/reduced,completed,59,69,65,197,pretty wisteria frise
+male,group E,high school,free/reduced,none,55,56,51,198,surly celadon okapi
+female,group B,some college,free/reduced,none,45,53,55,199,gimpy celadon chinook
+female,group B,bachelor's degree,free/reduced,none,78,79,76,200,snazzy peach kudu
+female,group C,associate's degree,standard,completed,67,84,86,201,hazy fuchsia penguin
+female,group D,some college,free/reduced,none,65,81,77,202,queasy linen snake
+male,group C,associate's degree,standard,none,69,77,69,203,wimpy carmine squirt
+female,group B,associate's degree,standard,none,57,69,68,204,homey olive woodlouse
+male,group C,some college,standard,none,59,41,42,205,woozy thistle akbash
+male,group D,some high school,standard,completed,74,71,78,206,sunny carmine fowl
+male,group E,bachelor's degree,standard,none,82,62,62,207,bluesy violet lemur
+male,group E,high school,standard,completed,81,80,76,208,greasy cobalt dachshund
+female,group B,some college,free/reduced,none,74,81,76,209,pokey violet nightingale
+female,group B,some college,free/reduced,none,58,61,66,210,lovely ochre falcon
+male,group D,some high school,free/reduced,completed,80,79,79,211,leaky lemon dogfish
+male,group C,some college,free/reduced,none,35,28,27,212,shabby cinnabar grasshopper
+female,group C,high school,free/reduced,none,42,62,60,213,snoopy cerise dingo
+male,group C,associate's degree,free/reduced,completed,60,51,56,214,snazzy ochre flounder
+male,group E,high school,standard,completed,87,91,81,215,sunny olivine dormouse
+male,group B,some high school,standard,completed,84,83,75,216,thirsty periwinkle impala
+female,group E,associate's degree,free/reduced,completed,83,86,88,217,snoopy russet ray
+female,group C,high school,free/reduced,none,34,42,39,218,goopy peach peccary
+male,group B,high school,free/reduced,none,66,77,70,219,cranky aquamarine emu
+male,group B,some high school,standard,completed,61,56,56,220,crappy silver binturong
+female,group D,high school,standard,completed,56,68,74,221,skanky teal kangaroo
+male,group B,associate's degree,standard,none,87,85,73,222,ugly chestnut cockroach
+female,group C,some high school,free/reduced,none,55,65,62,223,clammy malachite bongo
+male,group D,some high school,standard,none,86,80,75,224,breezy lavender flamingo
+female,group B,associate's degree,standard,completed,52,66,73,225,flabby corn tang
+female,group E,master's degree,free/reduced,none,45,56,54,226,goopy pear mammoth
+female,group C,some college,standard,none,72,72,71,227,zippy magnolia molly
+male,group D,high school,standard,none,57,50,54,228,greasy cyan tiger
+male,group A,some high school,free/reduced,none,68,72,64,229,thirsty white penguin
+female,group C,some college,standard,completed,88,95,94,230,thirsty alizarin wallaby
+male,group D,some college,standard,none,76,64,66,231,silly teal impala
+male,group C,associate's degree,standard,none,46,43,42,232,goopy grey robin
+female,group B,bachelor's degree,standard,none,67,86,83,233,pokey cerise bonobo
+male,group E,some high school,standard,none,92,87,78,234,flabby firebrick cow
+male,group C,bachelor's degree,standard,completed,83,82,84,235,homely viridian oyster
+male,group D,associate's degree,standard,none,80,75,77,236,bluesy olive mastiff
+male,group D,bachelor's degree,free/reduced,none,63,66,67,237,gimpy turquoise burmese
+female,group D,some high school,standard,completed,64,60,74,238,scummy razzmatazz tiger
+male,group B,some college,standard,none,54,52,51,239,smelly silver hamster
+male,group C,associate's degree,standard,none,84,80,80,240,baggy emerald rattlesnake
+male,group D,high school,free/reduced,completed,73,68,66,241,lovely heliotrope urchin
+female,group E,bachelor's degree,standard,none,80,83,83,242,randy lavender snail
+female,group D,high school,standard,none,56,52,55,243,slaphappy sapphire camel
+male,group E,some college,standard,none,59,51,43,244,shaggy rust bongo
+male,group D,some high school,standard,none,75,74,69,245,crabby coral eleuth
+male,group C,associate's degree,standard,none,85,76,71,246,flimsy pumpkin mammoth
+male,group E,associate's degree,standard,none,89,76,74,247,droopy crimson caterpillar
+female,group B,high school,standard,completed,58,70,68,248,wiggy wisteria sloth
+female,group B,high school,standard,none,65,64,62,249,craggy periwinkle chipmunk
+male,group C,high school,standard,none,68,60,53,250,squirrely aqua maltese
+male,group A,some high school,standard,completed,47,49,49,251,snippy charcoal bear
+female,group D,some college,free/reduced,none,71,83,83,252,smelly viridian magpie
+female,group B,some high school,standard,completed,60,70,70,253,trippy carmine blue
+male,group D,master's degree,standard,none,80,80,72,254,sleazy ecru monster
+male,group D,high school,standard,none,54,52,52,255,pasty razzmatazz mandrill
+female,group E,some college,standard,none,62,73,70,256,squirrely orange quail
+female,group C,associate's degree,free/reduced,none,64,73,68,257,gummy seashell hamster
+male,group C,associate's degree,standard,completed,78,77,77,258,crabby gamboge albatross
+female,group B,some college,standard,none,70,75,78,259,lovely plum tortoise
+female,group C,master's degree,free/reduced,completed,65,81,81,260,greasy chestnut chow
+female,group C,some high school,free/reduced,completed,64,79,77,261,sunny wheat schnauzer
+male,group C,some college,standard,completed,79,79,78,262,dorky cardinal gopher
+female,group C,some high school,free/reduced,none,44,50,51,263,hasty thistle rabbit
+female,group E,high school,standard,none,99,93,90,264,homey puce starfish
+male,group D,high school,standard,none,76,73,68,265,silly myrtle jaguar
+male,group D,some high school,free/reduced,none,59,42,41,266,boozy pumpkin weasel
+female,group C,bachelor's degree,standard,none,63,75,81,267,boozy blue loon
+female,group D,high school,standard,none,69,72,77,268,whiny tan whippet
+female,group D,associate's degree,standard,completed,88,92,95,269,bluesy copper hare
+female,group E,some college,free/reduced,none,71,76,70,270,greasy wheat dragon
+male,group C,bachelor's degree,standard,none,69,63,61,271,skimpy jade devil
+male,group C,some college,standard,none,58,49,42,272,skimpy aquamarine butterfly
+female,group D,associate's degree,free/reduced,none,47,53,58,273,lumpy brown bullfrog
+female,group D,some college,standard,none,65,70,71,274,woolly cream deer
+male,group B,some college,standard,completed,88,85,76,275,shaky teal wasp
+male,group C,bachelor's degree,standard,none,83,78,73,276,crabby wisteria gecko
+female,group C,some high school,standard,completed,85,92,93,277,flaky khaki greyhound
+female,group E,high school,standard,completed,59,63,75,278,skimpy maroon bat
+female,group C,some high school,free/reduced,none,65,86,80,279,pretty aquamarine budgerigar
+male,group B,bachelor's degree,free/reduced,none,73,56,57,280,ready sepia terrier
+male,group D,high school,standard,none,53,52,42,281,snippy rose grasshopper
+male,group D,high school,standard,none,45,48,46,282,shaky khaki wolf
+female,group D,bachelor's degree,free/reduced,none,73,79,84,283,chummy emerald gibbon
+female,group D,some college,free/reduced,completed,70,78,78,284,cranky razzmatazz iguana
+female,group B,some high school,standard,none,37,46,46,285,pretty dandelion hummingbird
+male,group B,associate's degree,standard,completed,81,82,82,286,goopy pear duck
+male,group E,associate's degree,standard,completed,97,82,88,287,flabby chestnut setter
+female,group B,some high school,standard,none,67,89,82,288,fuzzy cyan camel
+male,group B,bachelor's degree,free/reduced,none,88,75,76,289,dorky dandelion impala
+male,group E,some high school,standard,completed,77,76,77,290,messy maroon dalmatian
+male,group C,associate's degree,standard,none,76,70,68,291,shaggy silver greyhound
+male,group D,some high school,standard,none,86,73,70,292,flimsy maroon zonkey
+male,group C,some high school,standard,completed,63,60,57,293,pretty viridian bison
+female,group E,bachelor's degree,standard,none,65,73,75,294,pasty periwinkle catfish
+male,group D,high school,free/reduced,completed,78,77,80,295,clammy crimson buffalo
+male,group B,associate's degree,free/reduced,none,67,62,60,296,gloppy xanthic jellyfish
+male,group A,some high school,standard,completed,46,41,43,297,clammy bistre uguisu
+male,group E,associate's degree,standard,completed,71,74,68,298,scaly chocolate tamarin
+male,group C,high school,free/reduced,completed,40,46,50,299,sunny sapphire woodpecker
+male,group D,associate's degree,free/reduced,none,90,87,75,300,boozy cornflower barnacle
+male,group A,some college,free/reduced,completed,81,78,81,301,seedy sepia hyrax
+male,group D,some high school,free/reduced,none,56,54,52,302,cranky yellow cat
+female,group C,associate's degree,standard,completed,67,84,81,303,goopy khaki kudu
+male,group B,associate's degree,standard,none,80,76,64,304,frumpy magenta tang
+female,group C,associate's degree,standard,completed,74,75,83,305,gamy cerulean foxhound
+male,group A,some college,standard,none,69,67,69,306,gloppy salmon orangutan
+male,group E,some college,standard,completed,99,87,81,307,stealthy mauve quail
+male,group C,some high school,standard,none,51,52,44,308,leaky olivine opossum
+female,group B,associate's degree,free/reduced,none,53,71,67,309,freaky olive earwig
+female,group D,high school,free/reduced,none,49,57,52,310,paltry teal seal
+female,group B,associate's degree,standard,none,73,76,80,311,skanky seashell stingray
+male,group B,bachelor's degree,standard,none,66,60,57,312,grumpy grey snail
+male,group D,bachelor's degree,standard,completed,67,61,68,313,homely amber beaver
+female,group C,associate's degree,free/reduced,completed,68,67,69,314,gloppy bistre bird
+female,group C,bachelor's degree,standard,completed,59,64,75,315,squeaky tangerine scorpion
+male,group C,high school,standard,none,71,66,65,316,grumpy black hedgehog
+female,group D,master's degree,standard,completed,77,82,91,317,beady champagne ladybird
+male,group C,associate's degree,standard,none,83,72,78,318,chummy green hedgehog
+male,group B,bachelor's degree,standard,none,63,71,69,319,skinny aquamarine crocodile
+female,group D,associate's degree,free/reduced,none,56,65,63,320,snappy indigo balinese
+female,group C,high school,free/reduced,completed,67,79,84,321,snazzy corn panda
+female,group E,high school,standard,none,75,86,79,322,snippy brown wombat
+female,group C,some college,standard,none,71,81,80,323,crappy flax octopus
+female,group C,some high school,free/reduced,none,43,53,53,324,randy salmon shrimp
+female,group C,high school,free/reduced,none,41,46,43,325,scaly xanthic rat
+female,group C,some college,standard,none,82,90,94,326,muggy red russel
+male,group C,some college,standard,none,61,61,62,327,flabby aqua angelfish
+male,group A,some college,free/reduced,none,28,23,19,328,breezy zucchini labradoodle
+male,group C,associate's degree,standard,completed,82,75,77,329,foggy amaranth tortoise
+female,group B,some high school,standard,none,41,55,51,330,thirsty white labradoodle
+male,group C,high school,standard,none,71,60,61,331,ugly grey lynx
+male,group C,associate's degree,standard,none,47,37,35,332,smelly violet walrus
+male,group E,associate's degree,standard,completed,62,56,53,333,hazy purple tetra
+male,group B,associate's degree,standard,none,90,78,81,334,tasty razzmatazz bracke
+female,group C,bachelor's degree,standard,none,83,93,95,335,homey tangerine burmese
+female,group B,some college,free/reduced,none,61,68,66,336,woozy scarlet owl
+male,group D,some high school,standard,completed,76,70,69,337,sloppy cyan penguin
+male,group C,associate's degree,standard,none,49,51,43,338,lousy crimson crane
+female,group B,some high school,free/reduced,none,24,38,27,339,flabby brass drever
+female,group D,some high school,free/reduced,completed,35,55,60,340,pasty viridian fousek
+male,group C,high school,free/reduced,none,58,61,52,341,woozy fuchsia turtle
+female,group C,high school,standard,none,61,73,63,342,flaky bistre mau
+female,group B,high school,standard,completed,69,76,74,343,paltry heliotrope mongoose
+male,group D,associate's degree,standard,completed,67,72,67,344,wimpy puce newfoundland
+male,group D,some college,standard,none,79,73,67,345,skimpy cerulean chicken
+female,group C,high school,standard,none,72,80,75,346,hazy wisteria chinchilla
+male,group B,some college,standard,none,62,61,57,347,chummy maroon weasel
+female,group C,bachelor's degree,standard,completed,77,94,95,348,bumpy brown crab
+male,group D,high school,free/reduced,none,75,74,66,349,lanky chartreuse mayfly
+male,group E,associate's degree,standard,none,87,74,76,350,cozy cerise urchin
+female,group B,bachelor's degree,standard,none,52,65,69,351,messy magenta shrimp
+male,group E,some college,standard,none,66,57,52,352,gimpy cinnamon lizard
+female,group C,some college,standard,completed,63,78,80,353,chewy taupe shark
+female,group C,associate's degree,standard,none,46,58,57,354,gummy ivory labradoodle
+female,group C,some college,standard,none,59,71,70,355,surly cream bracke
+female,group B,bachelor's degree,standard,none,61,72,70,356,skimpy eggplant eagle
+male,group A,associate's degree,standard,none,63,61,61,357,sickly plum stingray
+female,group C,some college,free/reduced,completed,42,66,69,358,ugly russet angora
+male,group D,some college,free/reduced,none,59,62,61,359,cozy celadon husky
+female,group D,some college,standard,none,80,90,89,360,queasy cobalt affenpinscher
+female,group B,high school,standard,none,58,62,59,361,stealthy brass alligator
+male,group B,some high school,standard,completed,85,84,78,362,cranky scarlet malamute
+female,group C,some college,standard,none,52,58,58,363,foggy fuchsia turtle
+female,group D,some high school,free/reduced,none,27,34,32,364,jumpy myrtle fly
+male,group C,some college,standard,none,59,60,58,365,hasty eggplant argentino
+male,group A,bachelor's degree,free/reduced,completed,49,58,60,366,cheeky azure termite
+male,group C,high school,standard,completed,69,58,53,367,stealthy platinum bird
+male,group C,bachelor's degree,free/reduced,none,61,66,61,368,greasy gamboge chimpanzee
+female,group A,some high school,free/reduced,none,44,64,58,369,whiny indigo abyssinian
+female,group D,some high school,standard,none,73,84,85,370,beady wheat cichlid
+male,group E,some college,standard,none,84,77,71,371,thirsty copper retriever
+female,group C,some college,free/reduced,completed,45,73,70,372,snappy sapphire hedgehog
+male,group D,some high school,standard,none,74,74,72,373,woozy platinum centipede
+female,group D,some college,standard,completed,82,97,96,374,chewy azure spitz
+female,group D,bachelor's degree,standard,none,59,70,73,375,lousy celadon macaque
+male,group E,associate's degree,free/reduced,none,46,43,41,376,cheeky turquoise blue
+female,group D,some high school,standard,none,80,90,82,377,slimy amaranth capybara
+female,group D,master's degree,free/reduced,completed,85,95,100,378,crabby flax numbat
+female,group A,some high school,standard,none,71,83,77,379,goopy silver buffalo
+male,group A,bachelor's degree,standard,none,66,64,62,380,chummy amber cichlid
+female,group B,associate's degree,standard,none,80,86,83,381,pasty malachite serval
+male,group C,associate's degree,standard,completed,87,100,95,382,gimpy red nightingale
+male,group C,master's degree,free/reduced,none,79,81,71,383,scaly amber stoat
+female,group E,some high school,free/reduced,none,38,49,45,384,hazy malachite manatee
+female,group A,some high school,free/reduced,none,38,43,43,385,beady zucchini lynx
+female,group E,some college,standard,none,67,76,75,386,sleazy lime cassowary
+female,group E,bachelor's degree,standard,none,64,73,70,387,lousy ultramarine moose
+female,group C,associate's degree,free/reduced,none,57,78,67,388,gamy lemon reindeer
+female,group D,high school,standard,none,62,64,64,389,thirsty rose sloth
+male,group D,master's degree,standard,none,73,70,75,390,sickly lilac saola
+male,group E,some high school,free/reduced,completed,73,67,59,391,flimsy crimson wasp
+female,group D,some college,standard,none,77,68,77,392,squeaky blue newt
+male,group E,some college,standard,none,76,67,67,393,silly tan snail
+male,group C,associate's degree,standard,completed,57,54,56,394,seedy auburn cow
+female,group C,some high school,standard,completed,65,74,77,395,cloudy charcoal paradise
+male,group A,high school,free/reduced,none,48,45,41,396,wiggy orchid ladybird
+female,group B,high school,free/reduced,none,50,67,63,397,freaky auburn shark
+female,group C,associate's degree,standard,none,85,89,95,398,scanty myrtle foxhound
+male,group B,some high school,standard,none,74,63,57,399,flabby wisteria dalmatian
+male,group D,some high school,standard,none,60,59,54,400,hilly tan stoat
+female,group C,some high school,standard,completed,59,54,67,401,surly cerulean macaw
+male,group A,some college,standard,none,53,43,43,402,stealthy seashell heron
+female,group A,some college,free/reduced,none,49,65,55,403,gloppy grey chicken
+female,group D,high school,standard,completed,88,99,100,404,snippy cyan pinscher
+female,group C,high school,standard,none,54,59,62,405,chewy chocolate macaw
+female,group C,some high school,standard,none,63,73,68,406,tacky champagne bullfrog
+male,group B,associate's degree,standard,completed,65,65,63,407,droopy brown quokka
+female,group B,associate's degree,standard,none,82,80,77,408,flabby plum cow
+female,group D,high school,free/reduced,completed,52,57,56,409,jumpy red turkey
+male,group D,associate's degree,standard,completed,87,84,85,410,beady fuchsia balinese
+female,group D,master's degree,standard,completed,70,71,74,411,flimsy corn scorpion
+male,group E,some college,standard,completed,84,83,78,412,tasty chestnut dalmatian
+male,group D,associate's degree,standard,none,71,66,60,413,craggy amaranth flamingo
+male,group B,some high school,standard,completed,63,67,67,414,frumpy sapphire cattle
+female,group C,bachelor's degree,free/reduced,completed,51,72,79,415,lumpy lemon chamois
+male,group E,high school,standard,none,84,73,69,416,smelly myrtle retriever
+male,group C,bachelor's degree,standard,completed,71,74,68,417,trippy white bandicoot
+male,group C,associate's degree,standard,none,74,73,67,418,wimpy copper chamois
+male,group D,some college,standard,none,68,59,62,419,skinny xanthic schnauzer
+male,group E,high school,free/reduced,completed,57,56,54,420,fuzzy puce wolfhound
+female,group C,associate's degree,free/reduced,completed,82,93,93,421,nippy gold labradoodle
+female,group D,high school,standard,completed,57,58,64,422,boozy chartreuse mongoose
+female,group D,master's degree,free/reduced,completed,47,58,67,423,squeaky saffron birman
+female,group A,some high school,standard,completed,59,85,80,424,woolly cornflower gibbon
+male,group B,some college,free/reduced,none,41,39,34,425,droopy razzmatazz husky
+female,group C,some college,free/reduced,none,62,67,62,426,greasy taupe zonkey
+male,group C,bachelor's degree,standard,none,86,83,86,427,cozy denim wolf
+male,group C,some high school,free/reduced,none,69,71,65,428,snazzy yellow alligator
+male,group A,some high school,free/reduced,none,65,59,53,429,jumpy platinum neanderthal
+male,group C,some high school,free/reduced,none,68,63,54,430,chummy scarlet koala
+male,group C,associate's degree,free/reduced,none,64,66,59,431,grumpy lavender dunker
+female,group C,high school,standard,none,61,72,70,432,hilly sangria cuttlefish
+male,group C,high school,standard,none,61,56,55,433,flimsy maroon rottweiler
+female,group A,some high school,free/reduced,none,47,59,50,434,foggy silver skunk
+male,group C,some high school,standard,none,73,66,66,435,flaky celadon starfish
+male,group C,some college,free/reduced,completed,50,48,53,436,gimpy celadon lizard
+male,group D,associate's degree,standard,none,75,68,64,437,queasy heliotrope cuttlefish
+male,group D,associate's degree,free/reduced,none,75,66,73,438,goopy periwinkle lion
+male,group C,high school,standard,none,70,56,51,439,goopy plum tortoise
+male,group D,some high school,standard,completed,89,88,82,440,frumpy puce olm
+female,group C,some college,standard,completed,67,81,79,441,slimy copper tarantula
+female,group D,high school,standard,none,78,81,80,442,muzzy turquoise mastiff
+female,group A,some high school,free/reduced,none,59,73,69,443,cheeky wheat mule
+female,group B,associate's degree,standard,none,73,83,76,444,lousy green akita
+male,group A,some high school,free/reduced,none,79,82,73,445,flabby crimson pig
+female,group C,some high school,standard,completed,67,74,77,446,greasy magenta echidna
+male,group D,some college,free/reduced,none,69,66,60,447,slimy teal bat
+male,group C,high school,standard,completed,86,81,80,448,muzzy goldenrod dugong
+male,group B,high school,standard,none,47,46,42,449,hilly tomato coyote
+male,group B,associate's degree,standard,none,81,73,72,450,blurry smalt dogfish
+female,group C,some college,free/reduced,completed,64,85,85,451,fuzzy tangerine macaque
+female,group E,some college,standard,none,100,92,97,452,skanky pumpkin collie
+female,group C,associate's degree,free/reduced,none,65,77,74,453,stealthy firebrick akita
+male,group C,some college,free/reduced,none,65,58,49,454,nerdy rose owl
+female,group C,associate's degree,free/reduced,none,53,61,62,455,skanky pear argentino
+male,group C,bachelor's degree,free/reduced,none,37,56,47,456,randy ecru pinscher
+female,group D,bachelor's degree,standard,none,79,89,89,457,bumpy linen labradoodle
+male,group D,associate's degree,free/reduced,none,53,54,48,458,surly auburn echidna
+female,group E,bachelor's degree,standard,none,100,100,100,459,snippy charcoal kakapo
+male,group B,high school,standard,completed,72,65,68,460,lanky thistle tzu
+male,group C,bachelor's degree,free/reduced,none,53,58,55,461,hasty smalt capuchin
+male,group B,some college,free/reduced,none,54,54,45,462,stuffy taupe mongoose
+female,group E,some college,standard,none,71,70,76,463,sleazy khaki bracke
+female,group C,some college,free/reduced,none,77,90,91,464,stealthy orchid snake
+male,group A,bachelor's degree,standard,completed,75,58,62,465,slaphappy copper yak
+female,group C,some college,standard,none,84,87,91,466,homely viridian hippopotamus
+female,group D,associate's degree,free/reduced,none,26,31,38,467,flaky tomato gorilla
+male,group A,high school,free/reduced,completed,72,67,65,468,shaky seashell beaver
+female,group A,high school,free/reduced,completed,77,88,85,469,wiggy chocolate manatee
+male,group C,some college,standard,none,91,74,76,470,zippy fuchsia sponge
+female,group C,associate's degree,standard,completed,83,85,90,471,snoopy harlequin barnacle
+female,group C,high school,standard,none,63,69,74,472,fuzzy malachite wolfhound
+female,group C,associate's degree,standard,completed,68,86,84,473,slaphappy lemon bulldog
+female,group D,some high school,standard,none,59,67,61,474,clammy maroon jellyfish
+female,group B,associate's degree,standard,completed,90,90,91,475,tasty periwinkle mongoose
+female,group D,bachelor's degree,standard,completed,71,76,83,476,ready pumpkin woodlouse
+male,group E,bachelor's degree,standard,completed,76,62,66,477,silly copper deer
+male,group D,associate's degree,standard,none,80,68,72,478,squeaky malachite bongo
+female,group D,master's degree,standard,none,55,64,70,479,pokey alizarin woodlouse
+male,group E,associate's degree,standard,none,76,71,67,480,flabby silver tamarin
+male,group B,high school,standard,completed,73,71,68,481,snazzy turquoise okapi
+female,group D,associate's degree,free/reduced,none,52,59,56,482,dorky lavender woodpecker
+male,group C,some college,free/reduced,none,68,68,61,483,sloppy russet gopher
+male,group A,high school,standard,none,59,52,46,484,gloppy cream coral
+female,group B,associate's degree,standard,none,49,52,54,485,cranky rust fousek
+male,group C,high school,standard,none,70,74,71,486,nerdy emerald reindeer
+male,group D,some college,free/reduced,none,61,47,56,487,bumpy wheat capuchin
+female,group C,associate's degree,free/reduced,none,60,75,74,488,lousy seashell swan
+male,group B,some high school,standard,completed,64,53,57,489,hazy firebrick buffalo
+male,group A,associate's degree,free/reduced,completed,79,82,82,490,baggy seashell beetle
+female,group A,associate's degree,free/reduced,none,65,85,76,491,smelly bistre bulldog
+female,group C,associate's degree,standard,none,64,64,70,492,randy maroon gopher
+female,group C,some college,standard,none,83,83,90,493,baggy rose chinchilla
+female,group C,bachelor's degree,standard,none,81,88,90,494,wheezy white meerkat
+female,group B,high school,standard,none,54,64,68,495,droopy crimson fowl
+male,group D,high school,standard,completed,68,64,66,496,clammy taupe saola
+female,group C,some college,standard,none,54,48,52,497,messy amber lion
+female,group D,some college,free/reduced,completed,59,78,76,498,sunny azure bird
+female,group B,some high school,standard,none,66,69,68,499,cloudy celadon owl
+male,group E,some college,standard,none,76,71,72,500,beady lilac turtle
+female,group D,master's degree,standard,none,74,79,82,501,hilly cream frog
+female,group B,associate's degree,standard,completed,94,87,92,502,scanty lavender chihuahua
+male,group C,some college,free/reduced,none,63,61,54,503,breezy black whale
+female,group E,associate's degree,standard,completed,95,89,92,504,hilly chocolate termite
+female,group D,master's degree,free/reduced,none,40,59,54,505,crappy teal hedgehog
+female,group B,some high school,standard,none,82,82,80,506,geeky firebrick discus
+male,group A,high school,standard,none,68,70,66,507,surly emerald tarantula
+male,group B,bachelor's degree,free/reduced,none,55,59,54,508,smelly gold coyote
+male,group C,master's degree,standard,none,79,78,77,509,sunny coral raccoon
+female,group C,bachelor's degree,standard,none,86,92,87,510,hasty khaki eleuth
+male,group D,some college,standard,none,76,71,73,511,smelly copper yak
+male,group A,some high school,standard,none,64,50,43,512,ugly taupe goat
+male,group D,some high school,free/reduced,none,62,49,52,513,stinky sapphire chameleon
+female,group B,some high school,standard,completed,54,61,62,514,goopy apricot tzu
+female,group B,master's degree,free/reduced,completed,77,97,94,515,flimsy tomato argentino
+female,group C,some high school,standard,completed,76,87,85,516,baggy myrtle spider
+female,group D,some college,standard,none,74,89,84,517,sickly chocolate beetle
+female,group E,some college,standard,completed,66,74,73,518,thirsty olive barracuda
+female,group D,some high school,standard,completed,66,78,78,519,smelly white uakari
+female,group B,high school,free/reduced,completed,67,78,79,520,skinny sangria zonkey
+male,group D,some college,standard,none,71,49,52,521,cheeky smalt wildebeest
+female,group C,associate's degree,standard,none,91,86,84,522,squirrely copper panda
+male,group D,bachelor's degree,standard,none,69,58,57,523,slimy tangerine chow
+male,group C,master's degree,free/reduced,none,54,59,50,524,silly jade drever
+male,group C,high school,standard,completed,53,52,49,525,thirsty puce mole
+male,group E,some college,standard,none,68,60,59,526,sleazy auburn caracal
+male,group C,some high school,free/reduced,completed,56,61,60,527,bumpy plum fousek
+female,group C,high school,free/reduced,none,36,53,43,528,fuzzy teal bullfrog
+female,group D,bachelor's degree,free/reduced,none,29,41,47,529,tacky teal macaw
+female,group C,associate's degree,standard,none,62,74,70,530,muzzy maroon burmese
+female,group C,associate's degree,standard,completed,68,67,73,531,woozy pink chow
+female,group C,some high school,standard,none,47,54,53,532,homey black mastiff
+male,group E,associate's degree,standard,completed,62,61,58,533,paltry purple bandicoot
+female,group E,associate's degree,standard,completed,79,88,94,534,wheezy harlequin badger
+male,group B,high school,standard,completed,73,69,68,535,gloppy cardinal butterfly
+female,group C,bachelor's degree,free/reduced,completed,66,83,83,536,randy lime newfoundland
+male,group C,associate's degree,standard,completed,51,60,58,537,ready thistle husky
+female,group D,high school,standard,none,51,66,62,538,ugly cream gibbon
+male,group E,bachelor's degree,standard,completed,85,66,71,539,lovely gold lemur
+male,group A,associate's degree,standard,completed,97,92,86,540,messy amaranth hippopotamus
+male,group C,high school,standard,completed,75,69,68,541,squirrely bronze chihuahua
+male,group D,associate's degree,free/reduced,completed,79,82,80,542,trippy white dragonfly
+female,group C,associate's degree,standard,none,81,77,79,543,breezy bronze buzzard
+female,group D,associate's degree,standard,none,82,95,89,544,zippy wisteria toad
+female,group D,master's degree,standard,none,64,63,66,545,dorky peach bat
+male,group E,some high school,free/reduced,completed,78,83,80,546,homely denim deer
+female,group A,some high school,standard,completed,92,100,97,547,smelly lime olm
+male,group C,high school,standard,completed,72,67,64,548,slaphappy zucchini crocodile
+female,group C,high school,free/reduced,none,62,67,64,549,pasty ecru chow
+male,group C,master's degree,standard,none,79,72,69,550,scanty pumpkin hare
+male,group C,some high school,free/reduced,none,79,76,65,551,chewy asparagus cougar
+male,group B,bachelor's degree,free/reduced,completed,87,90,88,552,wheezy sapphire tapir
+female,group B,associate's degree,standard,none,40,48,50,553,shaggy sangria rattlesnake
+male,group D,some college,free/reduced,none,77,62,64,554,gamy khaki dhole
+male,group E,associate's degree,standard,none,53,45,40,555,tasty seashell heron
+female,group C,some college,free/reduced,none,32,39,33,556,clammy sepia liger
+female,group C,associate's degree,standard,completed,55,72,79,557,hazy cinnabar angora
+male,group C,master's degree,free/reduced,none,61,67,66,558,wimpy periwinkle peccary
+female,group B,associate's degree,free/reduced,none,53,70,70,559,goopy gamboge peccary
+male,group D,some high school,standard,none,73,66,62,560,queasy alizarin badger
+female,group D,some college,standard,completed,74,75,79,561,chewy brass greyhound
+female,group C,some college,standard,none,63,74,74,562,zippy eggplant woodlouse
+male,group C,bachelor's degree,standard,completed,96,90,92,563,smelly burgundy woodlouse
+female,group D,some college,free/reduced,completed,63,80,80,564,grumpy teal bongo
+male,group B,bachelor's degree,free/reduced,none,48,51,46,565,gummy buff chinook
+male,group B,associate's degree,standard,none,48,43,45,566,lousy charcoal cuttlefish
+female,group E,bachelor's degree,free/reduced,completed,92,100,100,567,beady eggplant kingfisher
+female,group D,master's degree,free/reduced,completed,61,71,78,568,fuzzy sapphire chihuahua
+male,group B,high school,free/reduced,none,63,48,47,569,frumpy silver affenpinscher
+male,group D,bachelor's degree,free/reduced,none,68,68,67,570,greasy tan guppy
+male,group B,some college,standard,completed,71,75,70,571,stinky magenta dhole
+male,group A,bachelor's degree,standard,none,91,96,92,572,stuffy magnolia mau
+female,group C,some college,standard,none,53,62,56,573,wiggy zucchini gerbil
+female,group C,high school,free/reduced,completed,50,66,64,574,nippy emerald dolphin
+female,group E,high school,standard,none,74,81,71,575,silly chartreuse bat
+male,group A,associate's degree,free/reduced,completed,40,55,53,576,whiny malachite capuchin
+male,group A,some college,standard,completed,61,51,52,577,sloppy crimson termite
+female,group B,high school,standard,none,81,91,89,578,randy cinnabar quail
+female,group B,some college,free/reduced,completed,48,56,58,579,cheeky green tzu
+female,group D,master's degree,standard,none,53,61,68,580,flaky bistre chinchilla
+female,group D,some high school,standard,none,81,97,96,581,cloudy cobalt boar
+female,group E,some high school,standard,none,77,79,80,582,skimpy heliotrope insect
+female,group D,bachelor's degree,free/reduced,none,63,73,78,583,paltry ultramarine bonobo
+female,group D,associate's degree,standard,completed,73,75,80,584,lumpy rust orangutan
+female,group D,some college,standard,none,69,77,77,585,paltry yellow camel
+female,group C,associate's degree,standard,none,65,76,76,586,crappy yellow quoll
+female,group A,high school,standard,none,55,73,73,587,sleepy linen whale
+female,group C,bachelor's degree,free/reduced,none,44,63,62,588,squeaky sepia bandicoot
+female,group C,some college,standard,none,54,64,65,589,goopy white insect
+female,group A,some high school,standard,none,48,66,65,590,snazzy red slug
+male,group C,some college,free/reduced,none,58,57,54,591,homey cardinal kangaroo
+male,group A,some high school,standard,none,71,62,50,592,wheezy xanthic owl
+male,group E,bachelor's degree,standard,none,68,68,64,593,flimsy grey macaw
+female,group E,high school,standard,none,74,76,73,594,clammy maroon bloodhound
+female,group C,bachelor's degree,standard,completed,92,100,99,595,woolly wisteria monkey
+female,group C,bachelor's degree,standard,completed,56,79,72,596,lousy celadon cat
+male,group B,high school,free/reduced,none,30,24,15,597,smelly beige flounder
+male,group A,some high school,standard,none,53,54,48,598,nerdy corn squid
+female,group D,high school,standard,none,69,77,73,599,pretty ochre gopher
+female,group D,some high school,standard,none,65,82,81,600,hazy ecru dollar
+female,group D,master's degree,standard,none,54,60,63,601,thirsty cream uakari
+female,group C,high school,standard,none,29,29,30,602,gamy magenta alligator
+female,group E,some college,standard,none,76,78,80,603,blurry taupe anteater
+male,group D,high school,free/reduced,none,60,57,51,604,cranky viridian rabbit
+male,group D,master's degree,free/reduced,completed,84,89,90,605,tasty salmon gibbon
+male,group C,some high school,standard,none,75,72,62,606,silly sapphire swan
+female,group C,associate's degree,standard,none,85,84,82,607,blurry persimmon deer
+female,group C,master's degree,free/reduced,none,40,58,54,608,lousy gold kiwi
+female,group E,some college,standard,none,61,64,62,609,skinny turquoise axolotl
+female,group B,associate's degree,standard,none,58,63,65,610,silly peach zonkey
+male,group D,some college,free/reduced,completed,69,60,63,611,fuzzy auburn ferret
+female,group C,some college,standard,none,58,59,66,612,breezy chestnut mau
+male,group C,bachelor's degree,standard,completed,94,90,91,613,trippy cerulean tarsier
+female,group C,associate's degree,standard,none,65,77,74,614,frumpy black cow
+female,group A,associate's degree,standard,none,82,93,93,615,chummy emerald tortoise
+female,group C,high school,standard,none,60,68,72,616,scaly magenta bulldog
+female,group E,bachelor's degree,standard,none,37,45,38,617,scaly linen squid
+male,group D,bachelor's degree,standard,none,88,78,83,618,muzzy razzmatazz deer
+male,group D,master's degree,standard,none,95,81,84,619,gloppy red stoat
+male,group C,associate's degree,free/reduced,completed,65,73,68,620,clammy orange stingray
+female,group C,high school,free/reduced,none,35,61,54,621,scummy chartreuse fowl
+male,group B,bachelor's degree,free/reduced,none,62,63,56,622,freaky silver retriever
+male,group C,high school,free/reduced,completed,58,51,52,623,greasy fuchsia robin
+male,group A,some college,standard,completed,100,96,86,624,skanky chestnut monster
+female,group E,bachelor's degree,free/reduced,none,61,58,62,625,paltry auburn numbat
+male,group D,some college,standard,completed,100,97,99,626,shaky cerise lemur
+male,group B,associate's degree,free/reduced,completed,69,70,63,627,tacky apricot chihuahua
+male,group D,associate's degree,standard,none,61,48,46,628,lanky cream cichlid
+male,group D,some college,free/reduced,none,49,57,46,629,tacky turquoise stoat
+female,group C,some high school,standard,completed,44,51,55,630,seedy periwinkle baboon
+male,group D,some college,standard,none,67,64,70,631,baggy beige clam
+male,group B,high school,standard,none,79,60,65,632,cranky brown elephant
+female,group B,bachelor's degree,standard,completed,66,74,81,633,zippy ochre centipede
+female,group C,high school,standard,none,75,88,85,634,wiggy silver ladybird
+male,group D,some high school,standard,none,84,84,80,635,skanky tangerine macaque
+male,group A,high school,standard,none,71,74,64,636,blurry cinnabar tuatara
+female,group B,high school,free/reduced,completed,67,80,81,637,frumpy rust insect
+female,group D,some high school,standard,completed,80,92,88,638,sickly goldenrod elephant
+male,group E,some college,standard,none,86,76,74,639,bumpy goldenrod abyssinian
+female,group D,associate's degree,standard,none,76,74,73,640,hazy cerulean macaw
+male,group D,high school,standard,none,41,52,51,641,flabby puce grasshopper
+female,group D,associate's degree,free/reduced,completed,74,88,90,642,skinny orchid gorilla
+female,group B,some high school,free/reduced,none,72,81,79,643,slimy mustard robin
+female,group E,high school,standard,completed,74,79,80,644,baggy saffron earwig
+male,group B,high school,standard,none,70,65,60,645,chummy olivine chinchilla
+female,group B,bachelor's degree,standard,completed,65,81,81,646,woozy cinnabar beagle
+female,group D,associate's degree,standard,none,59,70,65,647,sleepy heliotrope moorhen
+female,group E,high school,free/reduced,none,64,62,68,648,snazzy burgundy crane
+female,group B,high school,standard,none,50,53,55,649,slaphappy carmine mastiff
+female,group D,some college,standard,completed,69,79,81,650,messy buff rhinoceros
+male,group C,some high school,free/reduced,completed,51,56,53,651,greasy lime lionfish
+female,group A,high school,standard,completed,68,80,76,652,trippy turquoise turkey
+female,group D,some college,standard,completed,85,86,98,653,queasy ecru chinchilla
+female,group A,associate's degree,standard,completed,65,70,74,654,goopy seashell butterfly
+female,group B,some high school,standard,none,73,79,79,655,squirrely scarlet stoat
+female,group B,some college,standard,none,62,67,67,656,cozy blue angora
+male,group C,associate's degree,free/reduced,none,77,67,64,657,snippy khaki discus
+male,group D,some high school,standard,none,69,66,61,658,whiny apricot moorhen
+female,group D,associate's degree,free/reduced,none,43,60,58,659,skinny flax wallaby
+male,group D,associate's degree,standard,none,90,87,85,660,wheezy myrtle pinscher
+male,group C,some college,free/reduced,none,74,77,73,661,hilly rose woodlouse
+male,group C,some high school,standard,none,73,66,63,662,snazzy viridian spider
+female,group D,some college,free/reduced,none,55,71,69,663,droopy champagne tuatara
+female,group C,high school,standard,none,65,69,67,664,sickly harlequin scorpion
+male,group D,associate's degree,standard,none,80,63,63,665,lumpy cardinal wallaby
+female,group C,some high school,free/reduced,completed,50,60,60,666,shabby pumpkin shark
+female,group C,some college,free/reduced,completed,63,73,71,667,chewy malachite dachsbracke
+female,group B,bachelor's degree,free/reduced,none,77,85,87,668,crappy olive hamster
+male,group C,some college,standard,none,73,74,61,669,woolly cobalt bear
+male,group D,associate's degree,standard,completed,81,72,77,670,thirsty eggplant angora
+female,group C,high school,free/reduced,none,66,76,68,671,woolly emerald nightingale
+male,group D,associate's degree,free/reduced,none,52,57,50,672,wiggy lemon toad
+female,group C,some college,standard,none,69,78,76,673,woolly indigo quetzal
+female,group C,associate's degree,standard,completed,65,84,84,674,flabby apricot angora
+female,group D,high school,standard,completed,69,77,78,675,zippy red hyrax
+female,group B,some college,standard,completed,50,64,66,676,homey cobalt kakapo
+female,group E,some college,standard,completed,73,78,76,677,skinny dandelion earwig
+female,group C,some high school,standard,completed,70,82,76,678,sleepy indigo schnauzer
+male,group D,associate's degree,free/reduced,none,81,75,78,679,greasy emerald millipede
+male,group D,some college,free/reduced,none,63,61,60,680,wiggy heliotrope caiman
+female,group D,high school,standard,none,67,72,74,681,nerdy scarlet emu
+male,group B,high school,standard,none,60,68,60,682,cranky malachite toucan
+male,group B,high school,standard,none,62,55,54,683,tasty xanthic tarantula
+female,group C,some high school,free/reduced,completed,29,40,44,684,surly purple paradise
+male,group B,some college,standard,completed,62,66,68,685,muzzy cerise rhinoceros
+female,group E,master's degree,standard,completed,94,99,100,686,droopy chocolate cichlid
+male,group E,some college,standard,completed,85,75,68,687,goopy sangria whippet
+male,group D,associate's degree,free/reduced,none,77,78,73,688,hazy buff sparrow
+male,group A,high school,free/reduced,none,53,58,44,689,tacky buff pig
+male,group E,some college,free/reduced,none,93,90,83,690,whiny myrtle fousek
+female,group C,associate's degree,standard,none,49,53,53,691,thirsty aquamarine fossa
+female,group E,associate's degree,free/reduced,none,73,76,78,692,tacky green newt
+female,group C,bachelor's degree,free/reduced,completed,66,74,81,693,lovely smalt woodlouse
+female,group D,associate's degree,standard,none,77,77,73,694,cloudy corn caracal
+female,group C,some high school,standard,none,49,63,56,695,bluesy russet fossa
+female,group D,some college,free/reduced,none,79,89,86,696,skimpy turquoise leopard
+female,group C,associate's degree,standard,completed,75,82,90,697,hazy cobalt caterpillar
+female,group A,bachelor's degree,standard,none,59,72,70,698,baggy celadon indri
+female,group D,associate's degree,standard,completed,57,78,79,699,nippy linen turkey
+male,group C,high school,free/reduced,none,66,66,59,700,slimy green kakapo
+female,group E,bachelor's degree,standard,completed,79,81,82,701,skanky yellow hamster
+female,group B,some high school,standard,none,57,67,72,702,seedy copper wallaby
+male,group A,bachelor's degree,standard,completed,87,84,87,703,surly ultramarine lynx
+female,group D,some college,standard,none,63,64,67,704,whiny linen labradoodle
+female,group B,some high school,free/reduced,completed,59,63,64,705,crappy ivory ostrich
+male,group A,bachelor's degree,free/reduced,none,62,72,65,706,tacky asparagus argentino
+male,group D,high school,standard,none,46,34,36,707,bumpy wheat lobster
+male,group C,some college,standard,none,66,59,52,708,wheezy brown zebra
+male,group D,high school,standard,none,89,87,79,709,stuffy bistre bandicoot
+female,group D,associate's degree,free/reduced,completed,42,61,58,710,breezy cerulean blue
+male,group C,some college,standard,completed,93,84,90,711,nippy puce llama
+female,group E,some high school,standard,completed,80,85,85,712,slaphappy saffron molly
+female,group D,some college,standard,none,98,100,99,713,scaly seashell mongoose
+male,group D,master's degree,standard,none,81,81,84,714,homely tomato kiwi
+female,group B,some high school,standard,completed,60,70,74,715,stuffy periwinkle neanderthal
+female,group B,associate's degree,free/reduced,completed,76,94,87,716,lovely seashell hedgehog
+male,group C,associate's degree,standard,completed,73,78,72,717,baggy cerulean dhole
+female,group C,associate's degree,standard,completed,96,96,99,718,sleepy carmine elephant
+female,group C,high school,standard,none,76,76,74,719,surly beige oriole
+male,group E,associate's degree,free/reduced,completed,91,73,80,720,craggy turquoise turtle
+female,group C,some college,free/reduced,none,62,72,70,721,tasty turquoise shrimp
+male,group D,some high school,free/reduced,completed,55,59,59,722,wimpy amber grouse
+female,group B,some high school,free/reduced,completed,74,90,88,723,snappy lavender markhor
+male,group C,high school,standard,none,50,48,42,724,stinky wisteria coral
+male,group B,some college,standard,none,47,43,41,725,skinny chartreuse wolf
+male,group E,some college,standard,completed,81,74,71,726,squeaky lime macaw
+female,group E,associate's degree,standard,completed,65,75,77,727,hazy charcoal dachsbracke
+male,group E,some high school,standard,completed,68,51,57,728,cozy maroon bandicoot
+female,group D,high school,free/reduced,none,73,92,84,729,scaly pink coral
+male,group C,some college,standard,none,53,39,37,730,slimy bistre newt
+female,group B,associate's degree,free/reduced,completed,68,77,80,731,woozy cinnabar pinscher
+male,group A,some high school,free/reduced,none,55,46,43,732,stuffy carmine beetle
+female,group C,some college,standard,completed,87,89,94,733,chewy black squid
+male,group D,some high school,standard,none,55,47,44,734,sunny cardinal chipmunk
+female,group E,some college,free/reduced,none,53,58,57,735,sunny harlequin dachshund
+male,group C,master's degree,standard,none,67,57,59,736,stuffy magenta gerbil
+male,group C,associate's degree,standard,none,92,79,84,737,hilly tomato avocet
+female,group B,some college,free/reduced,completed,53,66,73,738,randy red affenpinscher
+male,group D,associate's degree,standard,none,81,71,73,739,nerdy rose flounder
+male,group C,high school,free/reduced,none,61,60,55,740,breezy grey audemer
+male,group D,bachelor's degree,standard,none,80,73,72,741,skanky myrtle bee
+female,group A,associate's degree,free/reduced,none,37,57,56,742,randy grey zebra
+female,group C,high school,standard,none,81,84,82,743,woozy sapphire dhole
+female,group C,associate's degree,standard,completed,59,73,72,744,woolly goldenrod civet
+male,group B,some college,free/reduced,none,55,55,47,745,stuffy magenta sparrow
+male,group D,associate's degree,standard,none,72,79,74,746,shaky copper hedgehog
+male,group D,high school,standard,none,69,75,71,747,slimy violet dunker
+male,group C,some college,standard,none,69,64,68,748,goopy gamboge husky
+female,group C,bachelor's degree,free/reduced,none,50,60,59,749,messy dandelion koala
+male,group B,some college,standard,completed,87,84,86,750,seedy green saola
+male,group D,some high school,standard,completed,71,69,68,751,lousy silver penguin
+male,group E,some college,standard,none,68,72,65,752,hilly cream reindeer
+male,group C,master's degree,free/reduced,completed,79,77,75,753,geeky alizarin dogfish
+female,group C,some high school,standard,completed,77,90,85,754,scanty crimson spoonbill
+male,group C,associate's degree,free/reduced,none,58,55,53,755,hazy russet bobcat
+female,group E,associate's degree,standard,none,84,95,92,756,queasy buff eleuth
+male,group D,some college,standard,none,55,58,52,757,whiny mustard chicken
+male,group E,bachelor's degree,free/reduced,completed,70,68,72,758,flaky green flamingo
+female,group D,some college,free/reduced,completed,52,59,65,759,craggy sapphire javanese
+male,group B,some college,standard,completed,69,77,77,760,slaphappy platinum clam
+female,group C,high school,free/reduced,none,53,72,64,761,lanky olive otter
+female,group D,some high school,standard,none,48,58,54,762,geeky sapphire collie
+male,group D,some high school,standard,completed,78,81,86,763,pokey teal ant
+female,group B,high school,standard,none,62,62,63,764,foggy indigo coral
+male,group D,some college,standard,none,60,63,59,765,ready myrtle sheepdog
+female,group B,high school,standard,none,74,72,72,766,whiny maroon caterpillar
+female,group C,high school,standard,completed,58,75,77,767,messy mauve hornet
+male,group B,high school,standard,completed,76,62,60,768,shaky copper chinchilla
+female,group D,some high school,standard,none,68,71,75,769,lousy denim fish
+male,group A,some college,free/reduced,none,58,60,57,770,crappy heliotrope mule
+male,group B,high school,standard,none,52,48,49,771,gummy fuchsia cichlid
+male,group D,bachelor's degree,standard,none,75,73,74,772,flimsy bistre indri
+female,group B,some high school,free/reduced,completed,52,67,72,773,snoopy goldenrod loon
+female,group C,bachelor's degree,free/reduced,none,62,78,79,774,messy burgundy uakari
+male,group B,some college,standard,none,66,65,60,775,flabby ruby moorhen
+female,group B,some high school,free/reduced,none,49,58,55,776,seedy red retriever
+female,group B,high school,standard,none,66,72,70,777,snappy apricot peccary
+female,group C,some college,free/reduced,none,35,44,43,778,snippy aquamarine coral
+female,group A,some college,standard,completed,72,79,82,779,chewy alizarin fowl
+male,group E,associate's degree,standard,completed,94,85,82,780,muzzy bronze crane
+female,group D,associate's degree,free/reduced,none,46,56,57,781,breezy bistre pig
+female,group B,master's degree,standard,none,77,90,84,782,breezy black avocet
+female,group B,high school,free/reduced,completed,76,85,82,783,messy chartreuse affenpinscher
+female,group C,associate's degree,standard,completed,52,59,62,784,surly pink rhinoceros
+male,group C,bachelor's degree,standard,completed,91,81,79,785,sickly orchid heron
+female,group B,some high school,standard,completed,32,51,44,786,wiggy red seal
+female,group E,some high school,free/reduced,none,72,79,77,787,sleazy cobalt worm
+female,group B,some college,standard,none,19,38,32,788,sickly alizarin whale
+male,group C,associate's degree,free/reduced,none,68,65,61,789,blurry ruby mandrill
+female,group C,master's degree,free/reduced,none,52,65,61,790,silly wheat gecko
+female,group B,high school,standard,none,48,62,60,791,gamy magenta raccoon
+female,group D,some college,free/reduced,none,60,66,70,792,sloppy cinnamon goat
+male,group D,high school,free/reduced,none,66,74,69,793,snazzy magenta emu
+male,group E,some high school,standard,completed,89,84,77,794,skanky linen raccoon
+female,group B,high school,standard,none,42,52,51,795,slimy tangerine quetzal
+female,group E,associate's degree,free/reduced,completed,57,68,73,796,gloppy black gar
+male,group D,high school,standard,none,70,70,70,797,grumpy yellow clam
+female,group E,associate's degree,free/reduced,none,70,84,81,798,squeaky plum argentino
+male,group E,some college,standard,none,69,60,54,799,slaphappy seashell moose
+female,group C,associate's degree,standard,none,52,55,57,800,droopy maroon mule
+male,group C,some high school,standard,completed,67,73,68,801,skimpy ivory hyrax
+male,group C,some high school,standard,completed,76,80,73,802,craggy grey iguana
+female,group E,associate's degree,standard,none,87,94,95,803,beady sapphire manatee
+female,group B,some college,standard,none,82,85,87,804,stuffy amethyst rottweiler
+female,group C,some college,standard,none,73,76,78,805,chummy amaranth beagle
+male,group A,some college,free/reduced,none,75,81,74,806,hasty brown newt
+female,group D,some college,free/reduced,none,64,74,75,807,homey lavender deer
+female,group E,high school,free/reduced,none,41,45,40,808,messy charcoal forest
+male,group C,high school,standard,none,90,75,69,809,trippy ivory monster
+male,group B,bachelor's degree,standard,none,59,54,51,810,gummy lime bulldog
+male,group A,some high school,standard,none,51,31,36,811,messy fuchsia kingfisher
+male,group A,high school,free/reduced,none,45,47,49,812,muzzy alizarin tortoise
+female,group C,master's degree,standard,completed,54,64,67,813,hazy cerise oriole
+male,group E,some high school,standard,completed,87,84,76,814,trippy cream crane
+female,group C,high school,standard,none,72,80,83,815,freaky lavender chihuahua
+male,group B,some high school,standard,completed,94,86,87,816,blurry green dachshund
+female,group A,bachelor's degree,standard,none,45,59,64,817,gamy apricot rabbit
+male,group D,bachelor's degree,free/reduced,completed,61,70,76,818,pokey myrtle monkey
+female,group B,high school,free/reduced,none,60,72,68,819,fuzzy russet mule
+female,group C,some high school,standard,none,77,91,88,820,freaky seashell cougar
+female,group A,some high school,standard,completed,85,90,92,821,grumpy black akita
+female,group D,bachelor's degree,free/reduced,none,78,90,93,822,hasty gamboge lemming
+male,group E,some college,free/reduced,completed,49,52,51,823,ugly saffron nightingale
+female,group B,high school,free/reduced,none,71,87,82,824,stealthy azure moorhen
+female,group C,some high school,free/reduced,none,48,58,52,825,stealthy sapphire gharial
+male,group C,high school,standard,none,62,67,58,826,lanky olivine oyster
+female,group C,associate's degree,free/reduced,completed,56,68,70,827,fuzzy ultramarine bird
+female,group C,some high school,standard,none,65,69,76,828,scaly scarlet quokka
+female,group D,some high school,free/reduced,completed,69,86,81,829,homely gold fly
+male,group B,some high school,standard,none,68,54,53,830,squirrely wisteria dollar
+female,group A,some college,free/reduced,none,61,60,57,831,dorky ochre cichlid
+female,group C,bachelor's degree,free/reduced,completed,74,86,89,832,shabby maroon tetra
+male,group A,bachelor's degree,standard,none,64,60,58,833,frumpy smalt chicken
+female,group B,high school,standard,completed,77,82,89,834,sleepy gamboge drever
+male,group B,some college,standard,none,58,50,45,835,leaky persimmon bongo
+female,group C,high school,standard,completed,60,64,74,836,chummy peach woodlouse
+male,group E,high school,standard,none,73,64,57,837,squirrely cinnabar monster
+female,group A,high school,standard,completed,75,82,79,838,wimpy lime beetle
+male,group B,associate's degree,free/reduced,completed,58,57,53,839,gloppy mustard emu
+female,group C,associate's degree,standard,none,66,77,73,840,scaly cinnabar millipede
+female,group D,high school,free/reduced,none,39,52,46,841,zippy cyan ladybird
+male,group C,some high school,standard,none,64,58,51,842,scummy apricot tang
+female,group B,high school,free/reduced,completed,23,44,36,843,slimy white zebu
+male,group B,some college,free/reduced,completed,74,77,76,844,droopy harlequin setter
+female,group D,some high school,free/reduced,completed,40,65,64,845,gimpy persimmon drever
+male,group E,master's degree,standard,none,90,85,84,846,flimsy emerald barracuda
+male,group C,master's degree,standard,completed,91,85,85,847,goopy alizarin malamute
+male,group D,high school,standard,none,64,54,50,848,bluesy myrtle badger
+female,group C,high school,standard,none,59,72,68,849,craggy cinnabar kangaroo
+male,group D,associate's degree,standard,none,80,75,69,850,skanky persimmon cheetah
+male,group C,master's degree,standard,none,71,67,67,851,pokey champagne bird
+female,group A,high school,standard,none,61,68,63,852,foggy olive chihuahua
+female,group E,some college,standard,none,87,85,93,853,stinky chartreuse buzzard
+male,group E,some high school,standard,none,82,67,61,854,thirsty brown cuttlefish
+male,group C,some high school,standard,none,62,64,55,855,wheezy mauve duck
+female,group B,bachelor's degree,standard,none,97,97,96,856,lanky black capybara
+male,group B,some college,free/reduced,none,75,68,65,857,smelly chartreuse shark
+female,group C,bachelor's degree,standard,none,65,79,81,858,scaly salmon armadillo
+male,group B,high school,standard,completed,52,49,46,859,beady myrtle caracal
+male,group C,associate's degree,free/reduced,none,87,73,72,860,cheeky amber dunker
+female,group C,associate's degree,standard,none,53,62,53,861,smelly thistle otter
+female,group E,master's degree,free/reduced,none,81,86,87,862,silly platinum tang
+male,group D,bachelor's degree,free/reduced,completed,39,42,38,863,woozy indigo labradoodle
+female,group C,some college,standard,completed,71,71,80,864,slimy amaranth panda
+male,group C,associate's degree,standard,none,97,93,91,865,snappy emerald chinook
+male,group D,some college,standard,completed,82,82,88,866,pokey plum cuscus
+male,group C,high school,free/reduced,none,59,53,52,867,skinny ruby gerbil
+male,group B,associate's degree,standard,none,61,42,41,868,jumpy dandelion uguisu
+male,group E,associate's degree,free/reduced,completed,78,74,72,869,homely smalt nightingale
+male,group C,associate's degree,free/reduced,none,49,51,51,870,scanty seashell grasshopper
+male,group B,high school,standard,none,59,58,47,871,skanky rust liger
+female,group C,some college,standard,completed,70,72,76,872,muggy ruby toad
+male,group B,associate's degree,standard,completed,82,84,78,873,queasy thistle husky
+male,group E,associate's degree,free/reduced,none,90,90,82,874,pretty myrtle falcon
+female,group C,bachelor's degree,free/reduced,none,43,62,61,875,gamy plum bird
+male,group C,some college,free/reduced,none,80,64,66,876,slimy plum heron
+male,group D,some college,standard,none,81,82,84,877,chummy pear kiwi
+male,group C,some high school,standard,none,57,61,54,878,tacky ruby javanese
+female,group D,some high school,standard,none,59,72,80,879,craggy blue capybara
+female,group D,associate's degree,standard,none,64,76,74,880,chewy ultramarine hornet
+male,group C,bachelor's degree,standard,completed,63,64,66,881,cheeky brass kiwi
+female,group E,bachelor's degree,standard,completed,71,70,70,882,lanky cerulean kiwi
+female,group B,high school,free/reduced,none,64,73,71,883,blurry chocolate bongo
+male,group D,bachelor's degree,free/reduced,none,55,46,44,884,cranky teal lion
+female,group E,associate's degree,standard,none,51,51,54,885,scanty viridian caterpillar
+female,group C,associate's degree,standard,completed,62,76,80,886,skinny chestnut cat
+female,group E,associate's degree,standard,completed,93,100,95,887,foggy periwinkle jellyfish
+male,group C,high school,free/reduced,none,54,72,59,888,cheeky wisteria caracal
+female,group D,some college,free/reduced,none,69,65,74,889,squeaky mauve skunk
+male,group D,high school,free/reduced,none,44,51,48,890,crappy salmon whale
+female,group E,some college,standard,completed,86,85,91,891,whiny amaranth dalmatian
+female,group E,associate's degree,standard,none,85,92,85,892,lousy emerald spoonbill
+female,group A,master's degree,free/reduced,none,50,67,73,893,shaggy brown ant
+male,group D,some high school,standard,completed,88,74,75,894,slaphappy carmine chimpanzee
+female,group E,associate's degree,standard,none,59,62,69,895,bumpy celadon barnacle
+female,group E,some high school,free/reduced,none,32,34,38,896,thirsty brass orangutan
+male,group B,high school,free/reduced,none,36,29,27,897,woozy corn wombat
+female,group B,some high school,free/reduced,completed,63,78,79,898,slaphappy khaki forest
+male,group D,associate's degree,standard,completed,67,54,63,899,wiggy carmine gopher
+female,group D,some high school,standard,completed,65,78,82,900,snoopy green ragdoll
+male,group D,master's degree,standard,none,85,84,89,901,freaky sapphire greyhound
+female,group C,master's degree,standard,none,73,78,74,902,snazzy beige booby
+female,group A,high school,free/reduced,completed,34,48,41,903,wheezy fuchsia hippopotamus
+female,group D,bachelor's degree,free/reduced,completed,93,100,100,904,squirrely cerise yak
+female,group D,some high school,free/reduced,none,67,84,84,905,hazy peach sponge
+male,group D,some college,standard,none,88,77,77,906,hilly amethyst termite
+male,group B,high school,standard,none,57,48,51,907,flabby black cichlid
+female,group D,some college,standard,completed,79,84,91,908,silly gamboge grasshopper
+female,group C,bachelor's degree,free/reduced,none,67,75,72,909,scaly silver ray
+male,group E,bachelor's degree,standard,completed,70,64,70,910,gimpy lime reindeer
+male,group D,bachelor's degree,free/reduced,none,50,42,48,911,randy cinnamon serval
+female,group A,some college,standard,none,69,84,82,912,muzzy myrtle cuscus
+female,group C,bachelor's degree,standard,completed,52,61,66,913,chummy silver duck
+female,group C,bachelor's degree,free/reduced,completed,47,62,66,914,cloudy tomato whale
+female,group B,associate's degree,free/reduced,none,46,61,55,915,droopy burgundy numbat
+female,group E,some college,standard,none,68,70,66,916,zippy saffron rabbit
+male,group E,bachelor's degree,standard,completed,100,100,100,917,nippy cyan booby
+female,group C,high school,standard,none,44,61,52,918,shaky beige peccary
+female,group C,associate's degree,standard,completed,57,77,80,919,paltry ochre pig
+male,group B,some college,standard,completed,91,96,91,920,shaky orchid dachsbracke
+male,group D,high school,free/reduced,none,69,70,67,921,bluesy crimson caterpillar
+female,group C,high school,free/reduced,none,35,53,46,922,homely wheat devil
+male,group D,high school,standard,none,72,66,66,923,bluesy wisteria yak
+female,group B,associate's degree,free/reduced,none,54,65,65,924,tasty charcoal shrew
+male,group D,high school,free/reduced,none,74,70,69,925,crabby malachite zorse
+male,group E,some high school,standard,completed,74,64,60,926,slimy magnolia reindeer
+male,group E,associate's degree,free/reduced,none,64,56,52,927,bumpy amber hummingbird
+female,group D,high school,free/reduced,completed,65,61,71,928,pretty tangerine mau
+male,group E,associate's degree,free/reduced,completed,46,43,44,929,skimpy emerald fish
+female,group C,some high school,free/reduced,none,48,56,51,930,flabby khaki tiger
+male,group C,some college,free/reduced,completed,67,74,70,931,ugly thistle caterpillar
+male,group D,some college,free/reduced,none,62,57,62,932,slaphappy beige caterpillar
+male,group D,associate's degree,free/reduced,completed,61,71,73,933,snoopy firebrick tang
+male,group C,bachelor's degree,free/reduced,completed,70,75,74,934,homey ultramarine bloodhound
+male,group C,associate's degree,standard,completed,98,87,90,935,bluesy cinnamon shark
+male,group D,some college,free/reduced,none,70,63,58,936,hasty cornflower coyote
+male,group A,associate's degree,standard,none,67,57,53,937,bumpy aquamarine beagle
+female,group E,high school,free/reduced,none,57,58,57,938,droopy saffron turkey
+male,group D,some college,standard,completed,85,81,85,939,slimy lemon hound
+male,group D,some high school,standard,completed,77,68,69,940,wiggy sapphire chin
+male,group C,master's degree,free/reduced,completed,72,66,72,941,pretty lime eagle
+female,group D,master's degree,standard,none,78,91,96,942,breezy malachite bracke
+male,group C,high school,standard,none,81,66,64,943,queasy sepia insect
+male,group A,some high school,free/reduced,completed,61,62,61,944,chummy thistle tzu
+female,group B,high school,standard,none,58,68,61,945,wheezy linen hare
+female,group C,associate's degree,standard,none,54,61,58,946,cranky orange ostrich
+male,group B,high school,standard,none,82,82,80,947,foggy lavender bullfrog
+female,group D,some college,free/reduced,none,49,58,60,948,jumpy celadon capuchin
+male,group B,some high school,free/reduced,completed,49,50,52,949,frumpy amaranth grouse
+female,group E,high school,free/reduced,completed,57,75,73,950,muzzy magnolia whale
+male,group E,high school,standard,none,94,73,71,951,bumpy rose impala
+female,group D,some college,standard,completed,75,77,83,952,queasy flax paradise
+female,group E,some high school,free/reduced,none,74,74,72,953,tasty rose earwig
+male,group C,high school,standard,completed,58,52,54,954,lovely ultramarine kakapo
+female,group C,some college,standard,none,62,69,69,955,slaphappy eggplant binturong
+male,group E,associate's degree,standard,none,72,57,62,956,flimsy amaranth gar
+male,group C,some college,standard,none,84,87,81,957,scanty chocolate badger
+female,group D,master's degree,standard,none,92,100,100,958,crappy indigo heron
+female,group D,high school,standard,none,45,63,59,959,sleazy amber dogfish
+male,group C,high school,standard,none,75,81,71,960,sickly xanthic civet
+female,group A,some college,standard,none,56,58,64,961,messy wisteria quokka
+female,group D,some high school,free/reduced,none,48,54,53,962,dorky sapphire gharial
+female,group E,associate's degree,standard,none,100,100,100,963,queasy periwinkle kiwi
+female,group C,some high school,free/reduced,completed,65,76,75,964,cranky azure newt
+male,group D,some college,standard,none,72,57,58,965,randy persimmon squid
+female,group D,some college,standard,none,62,70,72,966,goopy apricot weasel
+male,group A,some high school,standard,completed,66,68,64,967,lanky flax harrier
+male,group C,some college,standard,none,63,63,60,968,homey apricot quokka
+female,group E,associate's degree,standard,none,68,76,67,969,gimpy ivory moorhen
+female,group B,bachelor's degree,standard,none,75,84,80,970,scaly orchid kakapo
+female,group D,bachelor's degree,standard,none,89,100,100,971,blurry lilac bordeaux
+male,group C,some high school,standard,completed,78,72,69,972,woolly ultramarine capybara
+female,group A,high school,free/reduced,completed,53,50,60,973,messy amaranth crocodile
+female,group D,some college,free/reduced,none,49,65,61,974,clammy tomato snail
+female,group A,some college,standard,none,54,63,67,975,homey tan cassowary
+female,group C,some college,standard,completed,64,82,77,976,skinny corn slug
+male,group B,some college,free/reduced,completed,60,62,60,977,sleepy ochre slug
+male,group C,associate's degree,standard,none,62,65,58,978,homey olivine jellyfish
+male,group D,high school,standard,completed,55,41,48,979,cozy ochre chihuahua
+female,group C,associate's degree,standard,none,91,95,94,980,hilly lemon chicken
+female,group B,high school,free/reduced,none,8,24,23,981,blurry corn grouse
+male,group D,some high school,standard,none,81,78,78,982,snappy scarlet penguin
+male,group B,some high school,standard,completed,79,85,86,983,gamy green dhole
+female,group A,some college,standard,completed,78,87,91,984,stinky auburn donkey
+female,group C,some high school,standard,none,74,75,82,985,scaly peach oyster
+male,group A,high school,standard,none,57,51,54,986,queasy mustard maltese
+female,group C,associate's degree,standard,none,40,59,51,987,pokey wisteria ocelot
+male,group E,some high school,standard,completed,81,75,76,988,stinky ecru mist
+female,group A,some high school,free/reduced,none,44,45,45,989,pretty goldenrod millipede
+female,group D,some college,free/reduced,completed,67,86,83,990,silly sapphire moorhen
+male,group E,high school,free/reduced,completed,86,81,75,991,boozy malachite crocodile
+female,group B,some high school,standard,completed,65,82,78,992,baggy buff cassowary
+female,group D,associate's degree,free/reduced,none,55,76,76,993,foggy periwinkle whippet
+female,group D,bachelor's degree,free/reduced,none,62,72,74,994,homey ivory bombay
+male,group A,high school,standard,none,63,63,62,995,wimpy cyan paradise
+female,group E,master's degree,standard,completed,88,99,95,996,sloppy scarlet octopus
+male,group C,high school,free/reduced,none,62,55,55,997,snappy gamboge sparrow
+female,group C,high school,free/reduced,completed,59,71,65,998,nippy scarlet meerkat
+female,group D,some college,standard,completed,68,78,77,999,snappy seashell affenpinscher
+female,group D,some college,free/reduced,none,77,86,86,1000,pokey orange donkey
